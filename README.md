@@ -18,4 +18,4 @@ Para detectar el error introducido, el programa calcula el síndrome correspondi
 
 Para corregir el error introducido, el programa cambia el valor del vector código correspondiente a la posición del error y muestra el vector código corregido.
 
-<img src="https://github.com/marioperezmon/Desarrollos/blob/master/Java/Descodificador%20Hamming/img/hamming.png" alt="hamming" height="400"/>
+<img src="https://github.com/marioperezmon/Descodificador-Hamming/blob/master/img/hamming.png" alt="hamming" height="400"/>
